@@ -21,7 +21,7 @@ def format_arrays_for_masst(spectrum):
             if spectrum['intensity array'][i] > median_int * 2:
                 masst_string += str(spectrum['m/z array'][i]) + ' '
                 masst_string += str(spectrum['intensity array'][i]) + '\n'
-        return masst_string
+        return masst_string[:-1]
 
 
 def main():

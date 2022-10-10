@@ -1,0 +1,12 @@
+pyteomics
+lxml
+numpy
+pandas
+scipy
+pyMSpec
+BaselineRemoval
+dash
+dash-extensions
+plotly
+flask
+seaborn

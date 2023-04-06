@@ -6,9 +6,6 @@ Take MALDI data from timsTOF converted using [TIMSCONVERT](https://github.com/gt
 
 ### Setting Up Your Local Environment
 
-If you prefer to run TIMSCONVERT locally via Nextflow or the CLI, you can set up an environment to do so. Please note
-that TIMSCONVERT should be run under Linux or Windows. macOS is not supported.
-
 #### Install Anaconda on Linux
 
 1. Download and install Anaconda for [Linux](https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh). 
